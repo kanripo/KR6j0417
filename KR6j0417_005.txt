@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:01.746125
+#+DATE: 2015-08-30 20:32:06.919784
 #+TITLE: 大方廣菩薩藏文殊師利根本儀軌經
 #+PROPERTY: CBETA_ID T20n1191
 #+PROPERTY: ID KR6j0417
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1191
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6j0417_T_005-0853a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 大方廣菩薩藏文殊師利根本儀¶
+大方廣菩薩藏文殊師利根本儀¶
 軌經卷第五¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
@@ -332,7 +331,7 @@
 <pb:KR6j0417_T_005-0856c>¶
 箭金鎚。如是種種幖幟相狀印法四方俱畫。¶
 於四方壇外復畫四大印。又於曼拏羅北方。¶
-復安五股金剛杵普遍光明。東方作小曼拏羅作三角相。安蓮華普遍光明。南方¶
+復安五股金剛角相。安蓮華普遍光明。南方¶
 曼拏羅作半月相。安鉢普遍光明。西方曼拏¶
 羅團圓相。安青蓮華并莖葉普遍光明。復於¶
 四隅有四印。西北角曼拏羅作團圓相。安羂¶
