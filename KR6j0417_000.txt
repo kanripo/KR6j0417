@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大方廣菩薩藏文殊師利根本儀軌經
+#+DATE: 2015-08-30 20:32:02.563473
+#+PROPERTY: JUAN 0
