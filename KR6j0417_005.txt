@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:01.746125
+#+DATE: 2015-08-30 20:32:06.110203
 #+TITLE: 大方廣菩薩藏文殊師利根本儀軌經
 #+PROPERTY: CBETA_ID T20n1191
 #+PROPERTY: ID KR6j0417
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1191
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6j0417_T_005-0853a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 大方廣菩薩藏文殊師利根本儀¶
+大方廣菩薩藏文殊師利根本儀¶
 軌經卷第五¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
