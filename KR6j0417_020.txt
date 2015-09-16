@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:02.140728
+#+DATE: 2015-08-30 20:32:03.908013
 #+TITLE: 大方廣菩薩藏文殊師利根本儀軌經
 #+PROPERTY: CBETA_ID T20n1191
 #+PROPERTY: ID KR6j0417
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1191
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6j0417_T_020-0902a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 20
 ¶
 ¶
-
- 大方廣菩薩藏文殊師利根本儀¶
+大方廣菩薩藏文殊師利根本儀¶
 軌經卷第二十¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
 明教大師臣天息災奉　詔譯¶
 
-27生無量功德果報品
-:PROPERTIES:
-:head: 生無量功德果報品第二十七
-:END:
-¶
+生無量功德果報品第二十七¶
 
 爾時世尊釋迦牟尼佛。復觀察淨光天。告妙¶
 吉祥童子言。妙吉祥所有一切真言。廣大儀¶
@@ -95,12 +90,8 @@
 度。化導善根眾生。於佛法僧歸信供養之者。¶
 乃至於彼修真言行人而作擁護。¶
 
-28說印儀則品
-:PROPERTIES:
-:head: 《大方廣菩薩藏文殊師利根本儀軌經》說¶
-印儀則品第二十八
-:END:
-¶
+《大方廣菩薩藏文殊師利根本儀軌經》說¶
+印儀則品第二十八¶
 
 爾時世尊釋迦牟尼佛。復觀察淨光天眾。告¶
 妙吉祥童子言。妙吉祥諦聽。汝最上祕密真¶
