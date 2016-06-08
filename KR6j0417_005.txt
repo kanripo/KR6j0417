@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:06.110203
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:06
 #+TITLE: 大方廣菩薩藏文殊師利根本儀軌經
 #+PROPERTY: CBETA_ID T20n1191
 #+PROPERTY: ID KR6j0417
