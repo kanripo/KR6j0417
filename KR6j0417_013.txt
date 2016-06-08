@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:01.954599
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:06
 #+TITLE: 大方廣菩薩藏文殊師利根本儀軌經
 #+PROPERTY: CBETA_ID T20n1191
 #+PROPERTY: ID KR6j0417
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1191
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0417_T_013-0880c> 
 #+PROPERTY: JUAN 13
 ¶
-
- 大方廣菩薩藏文殊師利根本儀¶
+大方廣菩薩藏文殊師利根本儀¶
 軌經卷第十三¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
@@ -158,12 +157,8 @@
 不能趣入解脫之門。若能修定與法為緣。決¶
 定解脫速證菩提。¶
 
-16法義品
-:PROPERTIES:
-:head: 《大方廣菩薩藏文殊師利根本儀軌經》¶
-法義品第十六
-:END:
-¶
+* 《大方廣菩薩藏文殊師利根本儀軌經》¶
+法義品第十六¶
 
 爾時世尊釋迦牟尼佛。復觀察淨光天。告妙¶
 吉祥童子言。汝妙吉祥諦聽。彼夜叉王金剛
@@ -222,12 +217,8 @@
 以佛智教於一切。此淨光天一切大眾。皆隨¶
 汝教無敢違者。¶
 
-17隨業因果品
-:PROPERTIES:
-:head: 《大方廣菩薩藏文殊師利根本儀軌經》¶
-隨業因果品第十七
-:END:
-¶
+* 《大方廣菩薩藏文殊師利根本儀軌經》¶
+隨業因果品第十七¶
 
 爾時釋迦牟尼佛。入一切如來神通變化三¶
 摩地。而於眉間放大光明。作青黃紅白頗璃¶

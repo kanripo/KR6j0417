@@ -1,28 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:01.717108
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:06
 #+TITLE: 大方廣菩薩藏文殊師利根本儀軌經
 #+PROPERTY: CBETA_ID T20n1191
 #+PROPERTY: ID KR6j0417
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1191
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0417_T_004-0848c> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 大方廣菩薩藏文殊師利根本儀¶
+大方廣菩薩藏文殊師利根本儀¶
 軌經卷第四¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
 明教大師臣天息災奉　詔譯¶
 
-2菩薩變化儀軌品
-:PROPERTIES:
-:head: 菩薩變化儀軌品第二之一
-:END:
-¶
+* 菩薩變化儀軌品第二之一¶
 
 爾時妙吉祥童子。觀察會中一切大眾。於是¶
 妙吉祥童子。入觀照三摩地。入此定已。從¶
@@ -299,7 +294,7 @@
 切難作之事皆得成就。¶
 
 曩謨三滿哆沒馱(引)喃(引)摩鉢囉(二合)底賀哆¶
-舍娑曩(引)喃(引)唵(引)儞致¶
+舍娑曩(引)喃引(引)唵(引)儞致¶
 
 此真言名塢波枳世儞。印名廣開。一切之事¶
 所求皆成。若有一切凶惡宿耀自然退散。¶

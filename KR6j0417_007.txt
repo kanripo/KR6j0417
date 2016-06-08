@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:01.796622
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:06
 #+TITLE: 大方廣菩薩藏文殊師利根本儀軌經
 #+PROPERTY: CBETA_ID T20n1191
 #+PROPERTY: ID KR6j0417
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1191
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0417_T_007-0860a> ¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 大方廣菩薩藏文殊師利根本¶
+大方廣菩薩藏文殊師利根本¶
 儀軌經卷第七¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
@@ -229,11 +228,7 @@
 受法弟子。於此㡧前成就一切真言行。求彼¶
 聲聞辟支佛及大菩薩。彼人決定速得成就。¶
 
-5中品㡧像儀則品
-:PROPERTIES:
-:head: 中品㡧像儀則品第五
-:END:
-¶
+* 中品㡧像儀則品第五¶
 
 爾時世尊釋迦牟尼佛。觀彼一切大眾願樂¶
 欲聞。告妙吉祥童子言。我為汝等說彼中等¶
@@ -285,11 +280,7 @@
 道。若有令他書寫隨喜受持供養。彼人獲福¶
 經俱胝劫說不能盡。¶
 
-6下品㡧像儀則品
-:PROPERTIES:
-:head: 下品㡧像儀則品第六
-:END:
-¶
+* 下品㡧像儀則品第六¶
 
 爾時世尊釋迦牟尼佛。復告妙吉祥童子言。¶
 我今說彼第三下等㡧像祕密儀則。若有一¶

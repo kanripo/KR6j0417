@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:01.925303
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:06
 #+TITLE: 大方廣菩薩藏文殊師利根本儀軌經
 #+PROPERTY: CBETA_ID T20n1191
 #+PROPERTY: ID KR6j0417
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1191
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0417_T_012-0876c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 12
 ¶
 ¶
-
- 大方廣菩薩藏文殊師利根本儀¶
+大方廣菩薩藏文殊師利根本儀¶
 軌經卷第十二¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
@@ -199,12 +198,8 @@
 持恒作護摩者。於一切事無不獲得。至於三¶
 品靈驗。在持誦之人心所專注及不專注。¶
 
-15一切法行義品
-:PROPERTIES:
-:head: 《大方廣菩薩藏文殊師利根本儀軌經》¶
-一切法行義品第十五之一
-:END:
-¶
+* 《大方廣菩薩藏文殊師利根本儀軌經》¶
+一切法行義品第十五之一¶
 
 爾時金剛手菩薩摩訶薩。於大眾中從坐而¶
 起。遶佛三匝頂禮佛足。白世尊言善哉世尊。¶

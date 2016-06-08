@@ -1,28 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:01.844975
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:06
 #+TITLE: 大方廣菩薩藏文殊師利根本儀軌經
 #+PROPERTY: CBETA_ID T20n1191
 #+PROPERTY: ID KR6j0417
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1191
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0417_T_009-0866b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
-
- 大方廣菩薩藏文殊師利根本儀¶
+大方廣菩薩藏文殊師利根本儀¶
 軌經卷第九¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
 明教大師臣天息災奉　詔譯¶
 
-10第三成就最上法品
-:PROPERTIES:
-:head: 第三成就最上法品第十
-:END:
-¶
+* 第三成就最上法品第十¶
 
 爾時世尊釋迦牟尼佛。復說此儀軌王最上¶
 成就法。若彼誦者作法之時。乘船入大恒河¶
@@ -171,12 +166,8 @@
 力。而能現作諸佛菩薩緣覺聲聞一切賢聖。¶
 如是殊勝一切所欲。吉祥之事皆得成就。¶
 
-11第四淨行觀想護摩成就法品
-:PROPERTIES:
-:head: 第四淨行觀想護摩成就法品第十一¶
-之一
-:END:
-¶
+* 第四淨行觀想護摩成就法品第十一¶
+之一¶
 
 爾時世尊釋迦牟尼佛。觀察淨光天中大會¶
 之眾。根機成熟純善相應。告妙吉祥童子¶

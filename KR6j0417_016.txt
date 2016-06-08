@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:02.039520
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:06
 #+TITLE: 大方廣菩薩藏文殊師利根本儀軌經
 #+PROPERTY: CBETA_ID T20n1191
 #+PROPERTY: ID KR6j0417
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1191
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0417_T_016-0890b> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 16
 ¶
 ¶
-
- 大方廣菩薩藏文殊師利根本儀¶
+大方廣菩薩藏文殊師利根本儀¶
 軌經卷第十六¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
@@ -157,12 +156,8 @@
 隱除光明。此大輪佛頂王同於如來。天上人¶
 間一切儀軌王悉皆降伏。¶
 
-21一字根本心真言儀則品
-:PROPERTIES:
-:head: 《大方廣菩薩藏文殊師利根本儀軌經》¶
-一字根本心真言儀則品第二十一
-:END:
-¶
+* 《大方廣菩薩藏文殊師利根本儀軌經》¶
+一字根本心真言儀則品第二十一¶
 
 爾時世尊釋迦牟尼佛。復觀察淨光天一切¶
 天眾。及菩薩辟支聲聞等。告妙吉祥童子言。¶

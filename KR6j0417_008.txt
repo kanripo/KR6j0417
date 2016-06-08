@@ -1,27 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:01.820258
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:06
 #+TITLE: 大方廣菩薩藏文殊師利根本儀軌經
 #+PROPERTY: CBETA_ID T20n1191
 #+PROPERTY: ID KR6j0417
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1191
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0417_T_008-0863b> 
 #+PROPERTY: JUAN 8
 ¶
-
- 大方廣菩薩藏文殊師利根本¶
+大方廣菩薩藏文殊師利根本¶
 儀軌經卷第八¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
 明教大師臣天息災奉　詔譯¶
 
-7第四㡧像儀則品
-:PROPERTIES:
-:head: 第四㡧像儀則品第七
-:END:
-¶
+* 第四㡧像儀則品第七¶
 
 爾時妙吉祥童子。即從坐起繞佛三匝。頂禮¶
 佛足而白佛言。善哉善哉如來應供正等正¶
@@ -142,11 +137,7 @@
 我今所說上中下品。及彼小㡧法則之事。一¶
 切所求皆得成就。¶
 
-8第一成就最上法品
-:PROPERTIES:
-:head: 第一成就最上法品第八
-:END:
-¶
+* 第一成就最上法品第八¶
 
 爾時世尊釋迦牟尼佛。告妙吉祥童子言。我¶
 為眾生說此廣大殊勝㡧像法則。能令少善¶
@@ -202,11 +193,7 @@
 現千身。與妙吉祥而為善知識。此人決定成¶
 無上覺。¶
 
-9第二成就最上法品
-:PROPERTIES:
-:head: 第二成就最上法品第九
-:END:
-¶
+* 第二成就最上法品第九¶
 
 爾時一切大眾安詳而坐。世尊釋迦牟尼佛¶
 於大眾中。告彼天眾言汝等諦聽。聖妙吉祥¶

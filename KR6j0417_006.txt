@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:01.769481
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:06
 #+TITLE: 大方廣菩薩藏文殊師利根本儀軌經
 #+PROPERTY: CBETA_ID T20n1191
 #+PROPERTY: ID KR6j0417
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1191
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0417_T_006-0856c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 大方廣菩薩藏文殊師利根本儀¶
+大方廣菩薩藏文殊師利根本儀¶
 軌經卷第六¶
 ¶
 西天譯經三藏朝散大夫試鴻臚卿¶
@@ -181,11 +180,7 @@
 塗拭。然使香水灑淨。所有入曼拏羅受灌頂¶
 者。長以酥酪素食潔淨齋戒。¶
 
-3曼拏羅儀則品
-:PROPERTIES:
-:head: 曼拏羅儀則品第三
-:END:
-¶
+* 曼拏羅儀則品第三¶
 
 爾時妙吉祥童子。觀彼淨光天上所集眾會
 <pb:KR6j0417_T_006-0858c>¶
@@ -242,11 +237,7 @@
 惡業清淨貧者得富。或男或女乃至於曼拏¶
 羅隨喜之間。所求種種之事無不成就。¶
 
-4上品㡧像儀則品
-:PROPERTIES:
-:head: 上品㡧像儀則品第四之一
-:END:
-¶
+* 上品㡧像儀則品第四之一¶
 
 復次妙吉祥童子。觀察淨光天上所集大眾¶
 已。五體投地禮釋迦牟尼足。熙怡合掌白佛¶
