@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:01.688792
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:06
 #+TITLE: 大方廣菩薩藏文殊師利根本儀軌經
 #+PROPERTY: CBETA_ID T20n1191
 #+PROPERTY: ID KR6j0417
@@ -11,7 +11,8 @@
 #+PROPERTY: JUAN 3
 ¶
 
- 大方廣菩薩藏文殊師利根本儀¶
+ 
+** 3大方廣菩薩藏文殊師利根本儀¶
 軌經卷第三¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶

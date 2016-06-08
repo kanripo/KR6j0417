@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:32:01.717108
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:06
 #+TITLE: 大方廣菩薩藏文殊師利根本儀軌經
 #+PROPERTY: CBETA_ID T20n1191
 #+PROPERTY: ID KR6j0417
@@ -18,7 +18,8 @@
 西天譯經三藏朝散大夫試鴻臚少卿¶
 明教大師臣天息災奉　詔譯¶
 
-2菩薩變化儀軌品
+* 2菩薩變化儀軌品
+** 1
 :PROPERTIES:
 :head: 菩薩變化儀軌品第二之一
 :END:
